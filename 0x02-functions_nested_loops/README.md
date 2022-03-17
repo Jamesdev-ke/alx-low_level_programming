@@ -1,1 +1,1 @@
-This repository contains programs using Functions and nested loops in C
+0x02. C - Functions, nested loops
